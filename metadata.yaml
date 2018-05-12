@@ -1,9 +1,13 @@
 _repo: The-0xc6neid-of-Virgil-Translated-Into-Scottish-Verse-Volumes-1-2_49884
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Douglas, Gawin
     gutenberg_agent_id: '45594'
     url: http://www.gutenberg.org/2009/agents/45594
+covers:
+- cover_type: archival
+  image_path: 49884-h/images/cover.jpg
 creator:
   author:
     agent_name: Virgil
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/129
     wikipedia: http://en.wikipedia.org/wiki/Virgil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49884#The-0xc6neid-of-Virgil-Translated-Into-Scottish-Verse-Volumes-1-2
 gutenberg_issued: '2015-09-05'
 gutenberg_type: Text
 identifiers:
